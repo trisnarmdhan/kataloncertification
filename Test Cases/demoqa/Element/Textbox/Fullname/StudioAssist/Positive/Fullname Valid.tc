@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fullname Valid</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f37f9ef8-44fe-4a62-801c-23aac25fdcd4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>335556ab-752c-416e-8c24-3bb70a796adb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f9d7cd1a-ec4e-4e9a-9b91-b6383ce55cee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Muhammad Sutrisna Ramadha'</defaultValue>
+      <description></description>
+      <id>335556ab-752c-416e-8c24-3bb70a796adb</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Muhammad Sutrisna Ramadha'</defaultValue>
+      <description></description>
+      <id>f9d7cd1a-ec4e-4e9a-9b91-b6383ce55cee</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

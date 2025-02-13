@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Without Site Name</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2652353d-eee3-451f-9098-2c146bef70b5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7dd63f5-cd80-4f4f-95d9-6612bb2712ca</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>94e0a25d-5ac6-4c4e-a48b-55b46bc1e90b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'withoutSiteName@'</defaultValue>
+      <description></description>
+      <id>a7dd63f5-cd80-4f4f-95d9-6612bb2712ca</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Please enter a part following \'@\'. \'withoutSiteName@\' is incomplete.'</defaultValue>
+      <description></description>
+      <id>94e0a25d-5ac6-4c4e-a48b-55b46bc1e90b</id>
+      <masked>false</masked>
+      <name>Message</name>
+   </variable>
+</TestCaseEntity>

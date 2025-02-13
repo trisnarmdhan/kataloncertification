@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Camel Case</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c7f7500-1e62-40a7-ac82-796f903e5b6f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0880ab92-af23-49c0-8c78-b7e4f7d20ea5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a4f209fb-4605-4e70-b58f-6f4e0273a14a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'CaMeL CaSe'</defaultValue>
+      <description></description>
+      <id>0880ab92-af23-49c0-8c78-b7e4f7d20ea5</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'CaMeL CaSe'</defaultValue>
+      <description></description>
+      <id>a4f209fb-4605-4e70-b58f-6f4e0273a14a</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

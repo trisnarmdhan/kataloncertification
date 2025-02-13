@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkpoint - Fullname</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fed4e8aa-fd43-41ab-a981-a8d0ea148377</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d9748a00-15a9-41a4-ab4f-905efaf425bf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7facfd3d-7526-434c-984d-80d797f6e131</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Muhammad Sutrisna Ramadhan'</defaultValue>
+      <description></description>
+      <id>d9748a00-15a9-41a4-ab4f-905efaf425bf</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Muhammad Sutrisna Ramadhan'</defaultValue>
+      <description></description>
+      <id>7facfd3d-7526-434c-984d-80d797f6e131</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

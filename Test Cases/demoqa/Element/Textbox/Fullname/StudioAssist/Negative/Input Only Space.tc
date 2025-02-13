@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Only Space</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1165a36a-f153-434a-b79c-9a278612eec0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ceeff92-5917-4bb6-87d9-a7ca996ea3da</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d6b70c02-2df9-4866-8b8d-c48b919ea071</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'   '</defaultValue>
+      <description></description>
+      <id>7ceeff92-5917-4bb6-87d9-a7ca996ea3da</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Name'</defaultValue>
+      <description></description>
+      <id>d6b70c02-2df9-4866-8b8d-c48b919ea071</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

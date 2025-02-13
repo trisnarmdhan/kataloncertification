@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Uppercase</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9856a192-6563-4a2b-8652-55dabde6b0f4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da8aced7-d8a0-41fd-ae38-e2d57a157f0c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc02294c-5729-43f1-86ce-95fd08bf9f86</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'UPPERCASE'</defaultValue>
+      <description></description>
+      <id>da8aced7-d8a0-41fd-ae38-e2d57a157f0c</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'UPPERCASE'</defaultValue>
+      <description></description>
+      <id>bc02294c-5729-43f1-86ce-95fd08bf9f86</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

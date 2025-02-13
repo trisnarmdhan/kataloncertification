@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Using Acceptable Character</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c0ac2ac-47ad-497b-a7f2-9dd986bd17e8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ca7ee23-d6c7-452d-8d81-bc551b0e9b14</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>96777982-6136-4a90-bad1-35708d0fc4dd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'acceptable.character@gmail.com'</defaultValue>
+      <description></description>
+      <id>6ca7ee23-d6c7-452d-8d81-bc551b0e9b14</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'acceptable.character@gmail.com'</defaultValue>
+      <description></description>
+      <id>96777982-6136-4a90-bad1-35708d0fc4dd</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Using Number</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a674a9e4-413a-41a7-a2f3-2de932c96ac0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>708124ac-47e8-4483-b4d0-ea3fadb5370c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81eafe2d-46d8-4583-9f06-13013f99d3f9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1234@gmail.com'</defaultValue>
+      <description></description>
+      <id>708124ac-47e8-4483-b4d0-ea3fadb5370c</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234@gmail.com'</defaultValue>
+      <description></description>
+      <id>81eafe2d-46d8-4583-9f06-13013f99d3f9</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

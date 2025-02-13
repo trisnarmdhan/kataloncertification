@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Lowercase</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3b84514-4f40-4067-a27a-047ef7605314</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e61570c5-42ad-4ee1-9f92-99fd74b6c07f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3051f8bb-fb4f-47d5-914a-f1a85dc392a1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'lowercase'</defaultValue>
+      <description></description>
+      <id>e61570c5-42ad-4ee1-9f92-99fd74b6c07f</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'lowercase'</defaultValue>
+      <description></description>
+      <id>3051f8bb-fb4f-47d5-914a-f1a85dc392a1</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Without AT Sign</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cfab2ba7-c180-4953-ab17-6bd46c7d4fef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f44ef3cc-79ed-4bbd-84f1-2502ac253891</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>71efa7bc-308f-477d-a282-dee841005f24</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'withoutAt'</defaultValue>
+      <description></description>
+      <id>f44ef3cc-79ed-4bbd-84f1-2502ac253891</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Please include an \'@\' in the email address. \'withoutAt\' is missing an \'@\'.'</defaultValue>
+      <description></description>
+      <id>71efa7bc-308f-477d-a282-dee841005f24</id>
+      <masked>false</masked>
+      <name>Message</name>
+   </variable>
+</TestCaseEntity>

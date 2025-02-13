@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Using Forbidden Character</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af6de99e-4d2c-4122-a74e-14fe3c4c4874</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3ea56b9a-c16a-4ad1-8129-2121dd67ab26</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c9a2bfe-ef6b-4ae3-bdd8-fce1f2423212</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'forbidden,character@gmail.com'</defaultValue>
+      <description></description>
+      <id>3ea56b9a-c16a-4ad1-8129-2121dd67ab26</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'A part followed by \'@\' should not contain the symbol \',\'.'</defaultValue>
+      <description></description>
+      <id>0c9a2bfe-ef6b-4ae3-bdd8-fce1f2423212</id>
+      <masked>false</masked>
+      <name>Message</name>
+   </variable>
+</TestCaseEntity>

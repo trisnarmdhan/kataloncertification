@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Using Alphabet</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b4ef2df-4530-47ce-83b5-8051b1b61c1b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f5ca80eb-cbf9-426e-b428-46de7b50623c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5d012e89-3d32-4a78-bcbf-89827fbf8707</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Alphabet@gmail.com'</defaultValue>
+      <description></description>
+      <id>f5ca80eb-cbf9-426e-b428-46de7b50623c</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Alphabet@gmail.com'</defaultValue>
+      <description></description>
+      <id>5d012e89-3d32-4a78-bcbf-89827fbf8707</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

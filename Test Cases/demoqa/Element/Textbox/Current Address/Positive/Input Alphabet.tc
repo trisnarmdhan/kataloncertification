@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Alphabet</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9bad34f-6c57-4f73-875d-326f516c244d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>948fc546-4541-47d7-a6aa-539871e79eca</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cbff0177-76db-4a5d-ad99-37b2c1fb0860</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Input Alphabet'</defaultValue>
+      <description></description>
+      <id>948fc546-4541-47d7-a6aa-539871e79eca</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Input Alphabet'</defaultValue>
+      <description></description>
+      <id>cbff0177-76db-4a5d-ad99-37b2c1fb0860</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

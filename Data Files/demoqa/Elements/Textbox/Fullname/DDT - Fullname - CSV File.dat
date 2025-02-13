@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DDT - Fullname - CSV File</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>73ce6d0d-772b-4c50-b397-d307094f96f9</dataFileGUID>
+   <dataSourceUrl>C:\Users\Lenovo\Documents\AutomatedTest\Katalon\Data Files\demoqa\Elements\Textbox\Fullname\DDT - Fullname - CSV File.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

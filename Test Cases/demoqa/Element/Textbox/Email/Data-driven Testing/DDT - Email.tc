@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT - Email</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fce4411b-47bd-4016-9d5c-6b675da415fe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d38d3534-48b8-4c8e-9c69-03a9ec694c20</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2dad134e-5677-4e48-891c-6c08b674d7ef</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'msutrisna@gmail.com'</defaultValue>
+      <description></description>
+      <id>d38d3534-48b8-4c8e-9c69-03a9ec694c20</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'msutrisna@gmail.com'</defaultValue>
+      <description></description>
+      <id>2dad134e-5677-4e48-891c-6c08b674d7ef</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

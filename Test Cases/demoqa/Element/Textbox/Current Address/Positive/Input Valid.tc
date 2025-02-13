@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Valid</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5523a1de-df99-48d9-b7e0-9eb93200482a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>14c9753e-3014-4120-abca-974cefed2c15</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd952456-858e-482a-8346-895501a7347d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jln. Berkah no.128'</defaultValue>
+      <description></description>
+      <id>14c9753e-3014-4120-abca-974cefed2c15</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jln. Berkah no.128'</defaultValue>
+      <description></description>
+      <id>cd952456-858e-482a-8346-895501a7347d</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

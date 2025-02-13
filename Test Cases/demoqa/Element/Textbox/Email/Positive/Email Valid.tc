@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Email Valid</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1f5548e-8e13-4b7a-a6e1-4373f52aa0e8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ad3eac6-9526-4e71-9af4-dc03909fc022</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f27e075d-f991-4879-b4c7-85b1edc19615</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'msutrisna@gmail.com'</defaultValue>
+      <description></description>
+      <id>5ad3eac6-9526-4e71-9af4-dc03909fc022</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'msutrisna@gmail.com'</defaultValue>
+      <description></description>
+      <id>f27e075d-f991-4879-b4c7-85b1edc19615</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Using Space</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>28f31fe3-5df6-4468-acee-9c8bfe618b23</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4739642a-bab9-49e2-9835-0dd83f6d6c10</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36b025d0-1d68-42fa-a9fb-c06f6616535a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Using Space'</defaultValue>
+      <description></description>
+      <id>4739642a-bab9-49e2-9835-0dd83f6d6c10</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Using Space'</defaultValue>
+      <description></description>
+      <id>36b025d0-1d68-42fa-a9fb-c06f6616535a</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

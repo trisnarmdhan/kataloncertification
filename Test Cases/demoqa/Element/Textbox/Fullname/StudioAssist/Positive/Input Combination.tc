@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Combination</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6c9a790-1e3a-4b0d-9bc8-4a993a3342c9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc6e2f86-a8ca-43b6-a613-06bac0173b29</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3ca1637d-599e-488d-b09b-036fa6fd7d40</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'kombinasi123.,/'</defaultValue>
+      <description></description>
+      <id>cc6e2f86-a8ca-43b6-a613-06bac0173b29</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'kombinasi123.,/'</defaultValue>
+      <description></description>
+      <id>3ca1637d-599e-488d-b09b-036fa6fd7d40</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Without Domain</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>202b4c59-82e2-4b2a-b3c8-65260d1576c7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4f16beae-9634-4f3e-a1e1-3c9e5ff48c0a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81f0ba72-835c-4bb6-8e06-abe5211f3164</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'withoutDomain@gmail.'</defaultValue>
+      <description></description>
+      <id>4f16beae-9634-4f3e-a1e1-3c9e5ff48c0a</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'\'.\' is used at a wrong position in \'gmail.\'.'</defaultValue>
+      <description></description>
+      <id>81f0ba72-835c-4bb6-8e06-abe5211f3164</id>
+      <masked>false</masked>
+      <name>Message</name>
+   </variable>
+</TestCaseEntity>
