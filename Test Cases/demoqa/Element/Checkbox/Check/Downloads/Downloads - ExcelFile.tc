@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Downloads - ExcelFile</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b9dd091-354a-4e18-8f6b-2e5ea512f86b</testCaseGuid>
+</TestCaseEntity>

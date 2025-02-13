@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Downloads - All</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>834dcf2c-a2ee-4e60-8896-e5d622d02e8f</testCaseGuid>
+</TestCaseEntity>

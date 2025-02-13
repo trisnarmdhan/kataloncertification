@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>cbxPrivat</name>
+   <name>cbxPrivate</name>
    <tag></tag>
    <elementGuidId>e522873c-2dcb-49e2-ab7f-e38521ff625c</elementGuidId>
    <selectorCollection>
