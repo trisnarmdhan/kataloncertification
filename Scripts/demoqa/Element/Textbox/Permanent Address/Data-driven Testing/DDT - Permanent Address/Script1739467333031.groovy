@@ -17,3 +17,26 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+// Maximize the Window
+WebUI.maximizeWindow()
+
+// Navigate to URL using the value of the Test Data 'Data Files/GENERAL/URL' with column '1' and row '1'
+WebUI.navigateToUrl(TestDataFactory.findTestData('Data Files/GENERAL/URL').getValue(1, 1))
+
+// Scroll to Element 'demoqa/Elements/Textbox/inputFullName' with value '0'
+WebUI.scrollToElement(findTestObject('demoqa/Elements/Textbox/inputFullName'), 0)
+
+// Input the Element 'demoqa/Elements/Textbox/txtCurrentAddress' with the value of the local variable 'input'
+WebUI.setText(findTestObject('demoqa/Elements/Textbox/txtPermanentAddress'), input)
+
+// Click the Element 'demoqa/Elements/Textbox/btnSubmit'
+WebUI.click(findTestObject('demoqa/Elements/Textbox/btnSubmit'))
+
+// Verify Text Present with the value of the local variable 'expectedResult'
+WebUI.verifyTextPresent(expectedResult, false)
+
+// Close Browser
+WebUI.closeBrowser()
+
