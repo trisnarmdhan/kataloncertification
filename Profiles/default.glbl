@@ -14,4 +14,9 @@
       <initValue>'demoqa.com/checkbox'</initValue>
       <name>democbx</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://katalon-demo-cura.herokuapp.com/'</initValue>
+      <name>democura</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
