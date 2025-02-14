@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DDT - Current Address - Internal Data</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>aef147bf-c33d-4124-9151-a82ebf905746</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Jln.+Berkah+no.128 Jln.+Berkah+no.128</data>
+   <data>Input+Alphabet Input+Alphabet</data>
+   <data>.%2C%2F%3F .%2C%2F%3F</data>
+   <data>1234 1234</data>
+   <data>kombinasi123.%2C%2F%3F kombinasi123.%2C%2F%3F</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>input</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>expectedResult</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
